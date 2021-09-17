@@ -12,6 +12,7 @@ public class Hello {
         System.out.println("Введите 2 -e число");
 
         int b = scanner.nextInt();
+        System.out.println("ghjghj");
         // while (a< b){
         //   System.out.println(a);
         //  a++;
